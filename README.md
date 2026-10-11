@@ -10,9 +10,9 @@
 * **Project Title:** `Quantum Heist: Break the Entanglement Vault`
 * **Team Name:** `QubitSolo`
 * **Chosen Track:** `Track 1: Quantum Games & Interactive Puzzles`
-* **Video Presentation Link:** `[Insert YouTube Unlisted / Google Drive / Loom URL here]`
-  *(⚠️ Crucial: Ensure link access is set to "Anyone with the link can view" on Google Drive or "Unlisted / Public" on YouTube. Locked/inaccessible links cannot be scored!)*
-* **Live Demo Timestamp in Video:** `[MM:SS — To be specified upon uploading; mark the exact second where working gameplay begins after the introductory presentation]` *(Total video duration: 09:00)*
+* **Video Presentation Link:** [https://drive.google.com/file/d/17QHneJHNYcpAvyFcGr1RL9mvrhG2LCCM/view?usp=sharing](https://drive.google.com/file/d/17QHneJHNYcpAvyFcGr1RL9mvrhG2LCCM/view?usp=sharing)
+  *(Verified: Public Viewer access enabled via "Anyone with the link")*
+* **Live Demo Timestamp in Video:** `01:00` *(Live working gameplay demo runs from approximately 01:00 to 07:30; total video duration: 09:00)*
 
 ### Team Members (Max 4 members)
 | Name | Email | GitHub Username |
