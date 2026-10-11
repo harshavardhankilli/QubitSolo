@@ -1,0 +1,74 @@
+[
+  {
+    "player_name": "Ada_Lovelace",
+    "score": 650,
+    "time_seconds": 38,
+    "mistakes": 0,
+    "timestamp": "2026-10-10 20:30",
+    "rank_title": "Grandmaster Quantum Infiltrator"
+  },
+  {
+    "player_name": "Alphaa",
+    "score": 650,
+    "time_seconds": 89,
+    "mistakes": 3,
+    "timestamp": "2026-10-11 15:20",
+    "rank_title": "Entanglement Operative"
+  },
+  {
+    "player_name": "Agent_Echo",
+    "score": 650,
+    "time_seconds": 125,
+    "mistakes": 1,
+    "timestamp": "2026-10-11 14:30",
+    "rank_title": "Senior Circuit Specialist"
+  },
+  {
+    "player_name": "Agent_Vortex",
+    "score": 650,
+    "time_seconds": 250,
+    "mistakes": 1,
+    "timestamp": "2026-10-11 15:26",
+    "rank_title": "Senior Circuit Specialist"
+  },
+  {
+    "player_name": "Test_Agent",
+    "score": 600,
+    "time_seconds": 45,
+    "mistakes": 0,
+    "timestamp": "2026-10-11 14:24",
+    "rank_title": "Grandmaster Quantum Infiltrator"
+  },
+  {
+    "player_name": "Erwin_S",
+    "score": 580,
+    "time_seconds": 55,
+    "mistakes": 1,
+    "timestamp": "2026-10-10 21:15",
+    "rank_title": "Senior Circuit Specialist"
+  },
+  {
+    "player_name": "Agent_Quantum",
+    "score": 570,
+    "time_seconds": 1088,
+    "mistakes": 3,
+    "timestamp": "2026-10-11 16:53",
+    "rank_title": "Entanglement Operative"
+  },
+  {
+    "player_name": "CipherAgent",
+    "score": 545,
+    "time_seconds": 980,
+    "mistakes": 4,
+    "timestamp": "2026-10-11 16:12",
+    "rank_title": "Entanglement Operative"
+  },
+  {
+    "player_name": "John_Bell",
+    "score": 520,
+    "time_seconds": 72,
+    "mistakes": 2,
+    "timestamp": "2026-10-10 22:00",
+    "rank_title": "Entanglement Operative"
+  }
+]

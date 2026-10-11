@@ -6,3 +6,5 @@ matplotlib
 rustworkx
 scipy
 jupyter
+streamlit
+pylatexenc
